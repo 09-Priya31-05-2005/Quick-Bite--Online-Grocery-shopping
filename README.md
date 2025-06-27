@@ -34,25 +34,45 @@ Stages like “Preparing Order” and “Out for Delivery” are animated.
 Delivery partner contact info is provided, and chat is enabled.
 Options like “Continue Shopping” and “View Order Details” are shown.
 Every screen supports a functioning back button and category-wide “View All”.
+
 HCI Principle 1: Visibility of System Status – via loading bars and trackers.
+
 HCI Principle 2: Match with Real World – real-life terms and grocery categories.
+
 HCI Principle 3: User Control – undo actions, delete items, and back navigation.
+
 HCI Principle 4: Consistency – consistent placement of buttons and icons.
+
 HCI Principle 5: Error Prevention – format checks, OTP timers, CAPTCHAs.
+
 HCI Principle 6: Recognition vs Recall – auto-suggest, visible cart items.
+
 HCI Principle 7: Flexibility – favorites, recent items, promo codes.
+
 HCI Principle 8: Minimalist Design – clean visuals, essential info only.
+
 HCI Principle 9: Error Recovery – clear prompts for invalid input.
+
 HCI Principle 10: Help & Docs – FAQ, Contact Us, and “Need Help?” sections.
+
 HCI Principle 11: Feedback – instant updates on all actions.
+
 HCI Principle 12: Fitts' Law – large, easy-to-click buttons.
+
 HCI Principle 13: Hick’s Law – limited, well-organized choices.
+
 HCI Principle 14: Tesler’s Law – complexity managed by designers.
+
 HCI Principle 15: Serial Position Effect – trending offers first, help last.
+
 HCI Principle 16: Power Law of Practice – repeat users act faster.
+
 HCI Principle 17: Gestalt Principles – logical grouping and visual hierarchy.
+
 HCI Principle 18: Cialdini’s Persuasion – offers, reviews, social proof.
+
 HCI Principle 19: Color Psychology – green for success and action.
+
 HCI Principle 20: Mental Models – cart, checkout, icons match user expectations.
-The application also follows design paradigms like direct manipulation and desktop metaphors.
+
 In conclusion, QuickBite effectively combines usability, psychology, and HCI design to provide an intuitive online shopping experience.
